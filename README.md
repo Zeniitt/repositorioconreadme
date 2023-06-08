@@ -1,2 +1,2 @@
 # repositorioconreadme
-Este proyecto sera realizado por Ronny Solano
+Este proyecto sera realizado por Ronny Solano..
